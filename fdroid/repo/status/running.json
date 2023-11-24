@@ -1,9 +1,9 @@
 {
   "/etc/issue.net": "Ubuntu 22.04.3 LTS",
   "commandLine": [
-    "/usr/bin/fdroid update",
-    "-c"
+    "/usr/bin/fdroid deploy",
+    "--verbose"
   ],
-  "startTimestamp": 1700626314000,
-  "subcommand": "update"
+  "startTimestamp": 1700634676000,
+  "subcommand": "deploy"
 }

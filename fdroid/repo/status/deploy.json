@@ -1,1 +1,1 @@
-{"/etc/issue.net":"Ubuntu 22.04.3 LTS","commandLine":["/usr/bin/fdroid deploy","-v"],"endTimestamp":1699622564063,"startTimestamp":1699602734000,"subcommand":"deploy"}
+{"/etc/issue.net":"Ubuntu 22.04.3 LTS","commandLine":["/usr/bin/fdroid deploy","--verbose"],"endTimestamp":1700654558834,"startTimestamp":1700634676000,"subcommand":"deploy"}
